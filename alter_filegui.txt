@@ -1,1 +1,3 @@
 this is my conflict file under delivery
+This is my conflict file under QA
+resolved now
